@@ -64,7 +64,7 @@
                 ]
               },
               "env": {
-                "MYVAR":  "Hello MyVar"
+                "MYVAR": { "Value": "Hello MyVar" }
               }
             }
           },
